@@ -5,5 +5,5 @@
 
 - name: "Blog"
   icon: "pencil"
-  link: "http://blog.outbreakscience.org"
-  description: "New Outbreak Science projects will be anounced on <a href='http://blog.outbreakscience.org'>our blog</a>."
+  link: "https://blog.outbreakscience.org"
+  description: "New Outbreak Science projects will be anounced on <a href='https://blog.outbreakscience.org'>our blog</a>."
